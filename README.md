@@ -155,23 +155,7 @@ Add a short 1–2 line description of your project here.
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AniketJain7257&show_icons=true&hide_border=true&count_private=true" />
-
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketJain7257&layout=compact&hide_border=true" />
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AniketJain7257&hide_border=true" />
-</p>
 
 ---
 
