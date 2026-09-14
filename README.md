@@ -4,9 +4,7 @@
   B.Tech CSE Student | Full Stack Developer | Problem Solver
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AniketJain7257&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+
 
 ---
 
@@ -141,11 +139,11 @@ Add a short 1–2 line description of your project here.
 
 <p align="left">
 
-  <a href="YOUR-LEETCODE-LINK">
+  <a href="https://leetcode.com/u/aniketjain7257/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 
-  <a href="YOUR-GFG-LINK">
+  <a href="https://www.geeksforgeeks.org/profile/aniketjagnug">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 
@@ -181,25 +179,23 @@ Add a short 1–2 line description of your project here.
 
 <p align="center">
 
-  <a href="YOUR-LINKEDIN-LINK">
+  <a href="https://www.linkedin.com/in/aniket-jain-b1512a280/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR-EMAIL">
+  <a href="mailto:aniketjain7257@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="YOUR-LEETCODE-LINK">
+  <a href="https://leetcode.com/u/aniketjain7257/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 
-  <a href="YOUR-GFG-LINK">
+  <a href="https://www.geeksforgeeks.org/profile/aniketjagnug">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 
-  <a href="YOUR-INSTAGRAM-LINK">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  
 
 </p>
 
