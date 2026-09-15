@@ -95,45 +95,7 @@
 
 ---
 
-# 🚀 Featured Projects
 
-<!-- Replace the placeholders below with your projects -->
-
-### 🔹 Project 1 – PROJECT NAME
-
-**Description:**  
-Add a short 1–2 line description of your project here.
-
-**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB`
-
-🔗 **Live Demo:** [View Project](YOUR-LIVE-LINK)  
-📂 **Repository:** [View Code](YOUR-REPOSITORY-LINK)
-
----
-
-### 🔹 Project 2 – PROJECT NAME
-
-**Description:**  
-Add a short 1–2 line description of your project here.
-
-**Tech Stack:** `Python` `LLM` `RAG`
-
-🔗 **Live Demo:** [View Project](YOUR-LIVE-LINK)  
-📂 **Repository:** [View Code](YOUR-REPOSITORY-LINK)
-
----
-
-### 🔹 Project 3 – PROJECT NAME
-
-**Description:**  
-Add a short 1–2 line description of your project here.
-
-**Tech Stack:** `HTML` `CSS` `JavaScript` `PHP` `MySQL`
-
-🔗 **Live Demo:** [View Project](YOUR-LIVE-LINK)  
-📂 **Repository:** [View Code](YOUR-REPOSITORY-LINK)
-
----
 
 # 💻 Coding Profiles
 
